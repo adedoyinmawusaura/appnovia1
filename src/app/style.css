@@ -1,0 +1,8 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+/* styles/globals.css */
+@import '~bootstrap-icons/font/bootstrap-icons.css';
+
+.header{
+    background-image: url('../images/main-home-rev-5.jpg.jpg');
+    
+}
